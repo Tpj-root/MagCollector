@@ -71,7 +71,7 @@ A simple place to store and organize your magazine collection. Keep all your fav
 
 ### 2025
 
-01 · 02 · 03 · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
+[![01](https://img.shields.io/badge/01-green)](#2025-01) · 02 · 03 · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
 
 ### 2026
 
@@ -123,7 +123,7 @@ https://annas-archive.li/md5/bc2b79316bd65986177e41678520b30d
 ### 2021
 
 <a id="2021-10"></a>
-**2021 - Issue 3**  
+**2021 - Issue 10**  
 ```
 https://www.scribd.com/document/976130889/EFYOct2021
 ```
@@ -139,6 +139,17 @@ https://www.scribd.com/document/976130889/EFYOct2021
 
 
 ### 2025
+
+<a id="2025-01"></a>
+
+**2025 - Issue 01**  
+
+```
+https://www.scribd.com/document/911820268/Electronics-for-You-2025-01
+
+```
+
+
 
 
 ### 2026
@@ -172,4 +183,8 @@ https://www.scribd.com/user/289408225/Michael-Raymundo
 https://www.scribd.com/user/286513285/Umesh-Kumar
 https://www.scribd.com/user/11445396/keisinho
 https://www.scribd.com/document/402429012/Electronics-For-You-N%C2%BA3-2016-pdf
+
+https://www.scribd.com/user/614260388/Jorge-Agarie
+https://www.scribd.com/users/863806851
+https://www.scribd.com/users/277062974
 ```
