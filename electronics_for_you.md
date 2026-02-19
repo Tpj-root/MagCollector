@@ -5,13 +5,20 @@ A simple place to store and organize your magazine collection. Keep all your fav
 
 ## 📅 Collection Timeline
 
+<details>
+<summary><b>2009</b></summary>
 
-### 2009
-1 2 <a href="#2009-3" style="color:green;"><b>3</b></a> 4 5 6 7 8 9 10 11 12
+01 · 02 · [03](#2009-3) · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
 
+</details>
 
-### 2010
-1 2 3 4 5 6 7 8 9 10 11 12
+<details>
+<summary><b>2010</b></summary>
+
+01 · 02 · 03 · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
+
+</details>
+
 
 ### 2011
 1 2 3 4 5 6 7 8 9 10 11 12
@@ -142,3 +149,18 @@ https://www.scribd.com/document/976130889/EFYOct2021
 
 ⭐ Collection ongoing from 2009 – 2026
 
+```
+https://magzdb.ru/j/6165
+
+
+
+2021
+https://www.scribd.com/user/733075905/libra972004
+https://www.scribd.com/user/292650698/Jorge-Roa
+https://www.scribd.com/user/336419957/pre-freeda
+https://www.scribd.com/user/311556856/usman-ali
+https://www.scribd.com/user/289408225/Michael-Raymundo
+https://www.scribd.com/user/286513285/Umesh-Kumar
+https://www.scribd.com/user/11445396/keisinho
+https://www.scribd.com/document/402429012/Electronics-For-You-N%C2%BA3-2016-pdf
+```
