@@ -8,7 +8,7 @@ A simple place to store and organize your magazine collection. Keep all your fav
 <details>
 <summary><b>2009</b></summary>
 
-01 · 02 · [03](#2009-3) · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
+01 · 02 · [![03](https://img.shields.io/badge/03-green)](#2009-3) · 04 · 05 · 06 · 07 · 08 · 09 · 10 · 11 · 12
 
 </details>
 
@@ -21,10 +21,10 @@ A simple place to store and organize your magazine collection. Keep all your fav
 
 
 ### 2011
-1 2 [![03](https://img.shields.io/badge/03-green)](#2009-3) 4 5 6 7 8 9 10 11 12
+1 2  4 5 6 7 8 9 10 11 12
 
 ### 2012
-1 2 3 4 5 6 7 8 9 10 11 <a href="#2012-12" style="color:green;"><b>12</b></a>
+1 2 3 4 5 6 7 8 9 10 11 [![12](https://img.shields.io/badge/12-green)](#2012-12)
 
 ### 2013
 1 2 3 4 5 6 7 8 9 10 11 12
